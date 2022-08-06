@@ -1,5 +1,5 @@
 
-# resizestart & resizestop events
+# Events for resizestart & resizestop
 
 [![NPM version](https://img.shields.io/npm/v/resize-start-stop-events)](https://www.npmjs.com/package/resize-start-stop-events)
 [![Bundle size](https://img.shields.io/bundlephobia/minzip/resize-start-stop-events?label=size)](https://bundlephobia.com/result?p=resize-start-stop-events)
