@@ -8,8 +8,8 @@ export default function (element = window, stopDelay = 200, isResizing = 'isResi
 			element[isResizing] = true;
 		}
 
-		clearTimeout(element.resizestopTimoutId);
-		element.resizestopTimoutId = setTimeout(function () {
+		clearTimeout(element.resizestopTimeoutId);
+		element.resizestopTimeoutId = setTimeout(function () {
 			element.dispatchEvent(eventResizestop);
 			element[isResizing] = false;
 		}, stopDelay);
