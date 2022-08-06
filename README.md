@@ -53,7 +53,7 @@ applyResizeStartStopEvents(window, 200, 'isResizing')
 ```
 
 Parameters:
-- `element` … the element to apply the resize events (default: `window`)
+- `element` … the element to apply the resize events to (default: `window`)
 - `stopDelay` … the delay in `ms` after the `resizestop` event should fire, when resizing stops (default: `200`)
 - `isResizing` … the name of the property that is attached to the `element` – will be `true` while resizing (default: `'isResizing'`)
 
