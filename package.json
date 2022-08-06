@@ -1,0 +1,27 @@
+{
+  "name": "resize-start-stop-events",
+  "version": "1.0.0",
+  "description": "Apply `resizestart` and `resizestop` events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formfcw/resize-start-stop-events.git"
+  },
+  "keywords": [
+    "resize",
+    "resizestart",
+    "resizestop",
+    "resizeend",
+    "resize",
+    "events"
+  ],
+  "author": "formfcw <dev@formfcw.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/formfcw/resize-start-stop-events/issues"
+  },
+  "homepage": "https://github.com/formfcw/resize-start-stop-events#readme"
+}
